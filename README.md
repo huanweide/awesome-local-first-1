@@ -176,6 +176,7 @@ Local-first software prioritizes **data ownership**, **offline functionality**, 
 
 **Writing & Editing**
 - [Harper](https://writewithharper.com/) – Privacy-first, local grammar checker for prose.
+- [Novel Smith](https://github.com/huanweide/novel-smith) u2013 Local-first AI writing workshop for long-form web novels with built-in AI-trace detector (no API key, no upload) and humanize engine. Privacy-first, SQLite on your machine, MIT licensed.
 
 **Productivity & Collaboration**
 - [Excalidraw](https://excalidraw.com) – Collaborative drawing
