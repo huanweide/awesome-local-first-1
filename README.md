@@ -248,5 +248,5 @@ Important I cant not add every possible package that related to local first in s
 
 ## 作者
 
-由 **ReTri** 维护 · [GitHub 主页](https://github.com/huanweide)
+由 **huanweide** 维护 · [GitHub 主页](https://github.com/huanweide)
 
